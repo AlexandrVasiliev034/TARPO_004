@@ -1,0 +1,10 @@
+Filld container. 
+Container contents 6 elements.
+0:C is procedural programming language. Year of creating 1987
+1:Java is object oriented programming language. Year of creating 1969
+2:Fortran is procedural programming language. Year of creating 1988
+3:C# is object oriented programming language. Year of creating 1973
+4:GO is procedural programming language. Year of creating 1979
+5:PHP is object oriented programming language. Year of creating 1992
+Empty container. 
+Container contents 0 elements.
